@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arvind Singh Panwar</h1>
-<h3 align="center">🚀 Full stack Developer | React | JavaScript | Tailwind | Next.js | Java </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=🚀+Full+Stack+Developer+%7C+React+%7C+JavaScript+%7C+Tailwind+%7C+Next.js+%7C+Java" alt="Typing SVG" />
+</p>
+
 
 ---
 
