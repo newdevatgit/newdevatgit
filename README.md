@@ -36,21 +36,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
 
 ---
-
-## 📌 Featured Projects
-
-### [🎉 Eventique – Event Management Website](https://github.com/newdevatgit/event-management)
-> Built with React, Tailwind CSS & Firebase  
-> ➤ Features: User Auth | Admin Dashboard | Razorpay Integration
-
----
-
-### [🧠 AAO – AI Tools Directory](https://github.com/newdevatgit/AAO)
-> HTML, CSS, JavaScript  
-> ➤ Curated platform for AI tools, coding resources, job boards & more
-
----
-
 ## 📜 Certifications
 
 - ✅ *C++ Programming – Udemy*
