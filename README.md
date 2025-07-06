@@ -39,12 +39,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
 
 ---
-## 📜 Certifications
 
-- ✅ *C++ Programming – Udemy*
-- ✅ *JavaScript & React Bootcamp – Udemy*
-
----
 
 ## 📊 GitHub Stats
 
